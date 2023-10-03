@@ -4,6 +4,8 @@ This Repository is used to store the translation drafts of VHEMT.
 
 The current Chinese localization provider left a lot of content untouched, and we are intended to pick it up. 
 
+***The prospect of VHEMT sounds too promising to believe, but I still want to introduce this, as a possible solution.***
+
 If you are willing to help, please contact us. 
 
 
